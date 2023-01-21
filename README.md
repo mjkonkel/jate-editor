@@ -4,7 +4,7 @@
 JATE is a simple text editor app that can be used to save notes or code snipes. JATE can be used with or without an internet connection. Users are also able to install JATE. JATE was built using Webpack, IndexedDB, and Express.
 
 ## Link
-Link to the deployed [app]()
+Link to the deployed [app](https://sleepy-bayou-08147.herokuapp.com/)
 
 ## Installation
 To run the app locally, the necessary dependencies can be installed by running npm i in the command line.
